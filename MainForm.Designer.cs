@@ -93,7 +93,7 @@
             label6.Name = "label6";
             label6.Size = new Size(76, 15);
             label6.TabIndex = 5;
-            label6.Text = "Fibal balance";
+            label6.Text = "Final balance";
             // 
             // paid
             // 
